@@ -1,4 +1,4 @@
-### Hi there 👋, I am Himesh Kohad!
+### Hi there 👋, I'm Himesh Kohad!
 
 I am currently pursuing my B.Tech at VIT Bhopal University
 
