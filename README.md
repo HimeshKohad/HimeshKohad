@@ -6,9 +6,9 @@ Reach me at: himeshk325@gmail.com
 
 Skills: C++ / Java   
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=your-HimeshKohad
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimeshKohad1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimeshKohad1&theme=dark)](https://git.io/streak-stats) -->
 
 
 
