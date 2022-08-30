@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Himesh Kohad
+#### I am a beginner programmer trying to learn object oriented languages
+![I am a beginner programmer trying to learn object oriented languages]([![trophy](https://github-profile-trophy.vercel.app/HimeshKohadryo-ma)](https://github.com/ryo-ma/github-profile-trophy))
 
-<!--
-**HimeshKohad/HimeshKohad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Reach me at: himeshk325@gmail.com
 
-Here are some ideas to get you started:
+Skills: C++ / Java   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
