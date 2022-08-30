@@ -15,7 +15,13 @@ I am currently pursuing my B.Tech at VIT Bhopal University
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimeshKohad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+### :link: Quick Links
+LinkedIn : https://www.linkedin.com/in/himeshkohad/
 
+Leetcode: https://leetcode.com/Himesh_Kohad/
+
+HackerRank: https://www.hackerrank.com/HimeshKohad
 
 
