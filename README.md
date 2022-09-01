@@ -1,24 +1,34 @@
-### Hi there 👋, I'm Himesh Kohad!
 
-I am currently pursuing my B.Tech at VIT Bhopal University
+# 💫 About Me
+I'm currently pursuing my B.Tech at VIT Bhopal University<br>I'm hoping to collaborate on some C++ / DSA projects<br>I'm currently learning DSA<br>
 
 Reach me at: himeshk325@gmail.com
 
 ---
 
-### :book: Languages
+# :book: Languages and Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus logo"  width="50" height ="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Cplusplus logo"  width="50" height ="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo"  width="50" height ="50" /> 
 
 ---
 
-### :fire: My Github Stats 
-<!-- <img src="https://komarev.com/ghpvc/?username=HimeshKohad&label=Profile%20views&color=0e75b6&style=flat" alt="HimeshKohad" />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HimeshKohad" alt="HimeshKohad" /></a> -->
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himesh.kohad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himeshkohad) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimeshKohad&show_icons=true&theme=radical)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimeshKohad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=HimeshKohad&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HimeshKohad&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimeshKohad&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HimeshKohad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=HimeshKohad&icon=6&color=0)](https://visitcount.itsvg.in)
 
 ---
 
@@ -28,5 +38,17 @@ LinkedIn : https://www.linkedin.com/in/himeshkohad/
 Leetcode: https://leetcode.com/Himesh_Kohad/
 
 HackerRank: https://www.hackerrank.com/HimeshKohad
+
+---
+
+
+
+
+
+
+
+
+
+
 
 
