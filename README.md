@@ -1,6 +1,6 @@
 
 # 💫 About Me
-I'm currently pursuing my B.Tech at VIT Bhopal University<br>I'm hoping to collaborate on some C++ / DSA projects<br>I'm currently learning DSA<br>
+🔭 I'm currently pursuing my B.Tech at VIT Bhopal University <br> 🤝 I'm hoping to collaborate on some C++ / DSA projects <br> 🌱 I'm currently learning DSA  <br>
 
 Reach me at: himeshk325@gmail.com
 
