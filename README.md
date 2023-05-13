@@ -23,7 +23,7 @@ I believe in sharing knowledge and contributing to the community. Hence, I regul
 
 <br>
 
-Feel free to check out my repositories and contributions. You can also connect with me on [Instagram](https://instagram.com/himesh.kohad) and [LinkedIn](https://linkedin.com/in/himeshkohad).
+Feel free to check out my repositories and contributions. You can also connect with me on [Instagram](https://www.instagram.com/himesh.kohad/) and [LinkedIn](https://linkedin.com/in/himeshkohad).
 
 <hr>
 
