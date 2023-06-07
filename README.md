@@ -1,6 +1,6 @@
 Hello :wave:, I'm Himesh
 
-Electronics Engineering Student (Prefinal Year) | Explorer of DSA
+Electronics Engineering Student (Final Year) | Explorer of DSA
 
 <div align = "center">
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="470" />
