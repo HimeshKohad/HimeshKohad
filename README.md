@@ -15,11 +15,11 @@ Electronics Engineering Student (Final Year) | Explorer of DSA
 
 <br>
 
-Welcome to my Github profile! I am an enthusiastic Electronics Engineering student who is passionate about learning new technologies and building innovative solutions to real-world problems. Currently, I am exploring the world of Data Structures and Algorithms to enhance my programming skills.
+Welcome to my GitHub profile! I am an enthusiastic Electronics Engineering student passionate about learning new technologies and building innovative solutions to real-world problems. Currently, I am exploring the world of Data Structures and Algorithms to enhance my programming skills.
 
 <br>
 
-I believe in sharing knowledge and contributing to the community. Hence, I regularly publish my projects and research works on Github. I am proficient in C++, Java, HTML, CSS, TinkerCAD and Canva.
+I believe in sharing knowledge and contributing to the community. Hence, I regularly publish my projects and research works on GitHub. I am proficient in C++, Java, HTML, CSS, TinkerCAD, and Canva.
 
 <br>
 
@@ -29,16 +29,33 @@ Feel free to check out my repositories and contributions. You can also connect w
 
 Languages and Tools:
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-orange.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/HTML-red.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-blue.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Arduino-green.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/ThingSpeak-red.svg?style=for-the-badge&logo=thingspeak&logoColor=white" alt="ThingSpeak">
-  <img src="https://img.shields.io/badge/Arduino_IDE-orange.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE">
-  <img src="https://img.shields.io/badge/TinkerCAD-blue.svg?style=for-the-badge&logo=tinkercad&logoColor=white" alt="TinkerCAD">
-  <img src="https://img.shields.io/badge/Canva-purple.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/Figma-orange.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt="Java" width="40" height="40">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" width="40" height="40">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="Git" width="40" height="40">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" alt="Yarn" width="40" height="40">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" alt="Canva" width="40" height="40">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
+  
 </p>
 
 <br>
@@ -69,7 +86,7 @@ Random Dev Quote:
 
 Contact me: himeshkohad.work@gmail.com
 
-LinkedIn : https://www.linkedin.com/in/himeshkohad/
+LinkedIn: https://www.linkedin.com/in/himeshkohad/
 
 Leetcode: https://leetcode.com/Himesh_Kohad/
 
