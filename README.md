@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am an enthusiastic Electronics Engineering stude
 
 <br>
 
-I believe in sharing knowledge and contributing to the community. Hence, I regularly publish my projects and research works on GitHub. I am proficient in C++, Java, HTML, CSS, TinkerCAD, and Canva.
+I believe in sharing knowledge and contributing to the community. Hence, I regularly publish my projects and research works on GitHub. I am proficient in C++, Java, HTML, CSS, JavaScript, React.js and Canva.
 
 <br>
 
