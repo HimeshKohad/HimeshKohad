@@ -39,16 +39,14 @@ Feel free to check out my repositories and contributions. You can also connect w
 
 <hr>
 
-**Github Stats:**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimeshKohad&show_icons=true&theme=radical" width="49%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimeshKohad&theme=radical" width="49%" alt="GitHub Streak">
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HimeshKohad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=HimeshKohad&theme=dark&hide_border=false)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimeshKohad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> </p>
 
-**Trophies:**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HimeshKohad&theme=juicyfresh&no-frame=true" width="100%">
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HimeshKohad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <hr>
 
