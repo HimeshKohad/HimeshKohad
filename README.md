@@ -17,9 +17,9 @@ I believe in sharing knowledge and contributing to the community. Hence, I regul
 
 Feel free to check out my repositories and contributions. You can also connect with me on [Instagram](https://www.instagram.com/himesh.kohad/), [LinkedIn](https://linkedin.com/in/himeshkohad), and [Medium](https://medium.com/@himeshkohad).
 
-<hr>
 
-**Languages and Tools:**
+## Languages and Tools
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt "Java" width="40" height="40">
@@ -37,12 +37,13 @@ Feel free to check out my repositories and contributions. You can also connect w
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
 </p>
 
-<hr>
+## 📊 GitHub Stats:
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HimeshKohad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=HimeshKohad&theme=dark&hide_border=false)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimeshKohad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=HimeshKohad&theme=dark&hide_border=false&include_all_commits=false&count_private=false"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimeshKohad&theme=dark&hide_border=false"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimeshKohad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> 
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HimeshKohad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -50,7 +51,7 @@ Feel free to check out my repositories and contributions. You can also connect w
 
 <hr>
 
-🔖 **Random Dev Quote:**
+## 🔖 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
