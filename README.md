@@ -64,21 +64,20 @@ Languages and Tools:
 
 Github Stats:
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HimeshKohad&show_icons=true&theme=radical" width="49%" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimeshKohad&theme=radical" width="49%" alt="GitHub Streak">
 </p>
 
 
-Trophies:
+🏆 Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HimeshKohad&theme=juicyfresh&no-frame=true" width="100%">
 </p>
 
 <hr>
 
-Random Dev Quote:
+🔖 Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -87,8 +86,6 @@ Random Dev Quote:
 :link: Quick Links
 
 Contact me: himeshkohad.work@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/himeshkohad/
 
 Leetcode: https://leetcode.com/Himesh_Kohad/
 
