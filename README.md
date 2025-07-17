@@ -59,6 +59,6 @@ Feel free to check out my repositories and contributions. You can also connect w
 
 :link: **Quick Links:**
 - Contact me: himeshkohad.work@gmail.com
-- Leetcode: https://leetcode.com/Himesh_Kohad/
+- Leetcode: [https://leetcode.com/Himesh_Kohad](https://leetcode.com/u/HimeshKohad/)
 - Codeforces: https://codeforces.com/profile/HimeshKohad
 - HackerRank: https://www.hackerrank.com/HimeshKohad
