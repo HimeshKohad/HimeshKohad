@@ -1,64 +1,253 @@
-# Hello :wave:, I'm Himesh
-
-System Engineer | Explorer of DSA
-
 <div align="center">
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="720" height="340" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:21262D&height=210&section=header&text=Himesh%20Kohad&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=System%20Engineer%20%7C%20Building%20from%20First%20Principles&descAlignY=58&descSize=18" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=58A6FF&center=true&vCenter=true&width=820&height=45&lines=Understanding+how+software+works%2C+one+layer+at+a+time;Learning+by+building%2C+breaking%2C+and+rebuilding;From+algorithms+to+backend+engineering" alt="Animated introduction" />
+
 </div>
 
-<p align="center">
-  Visitor count: <br>
-  <img src="https://profile-counter.glitch.me/HimeshKohad/count.svg" />
-</p>
+---
 
-Welcome to my GitHub profile! I am an enthusiastic Electronics Engineering student passionate about learning new technologies and building innovative solutions to real-world problems. Currently, I am exploring the world of Data Structures and Algorithms to enhance my programming skills.
+## 👋 About Me
 
-I believe in sharing knowledge and contributing to the community. Hence, I regularly publish my projects and research works on GitHub. I am proficient in C++, Java, HTML, CSS, JavaScript, React.js, and Canva.
+<table>
+<tr>
+<td width="55%" valign="middle">
 
-Feel free to check out my repositories and contributions. You can also connect with me on [Instagram](https://www.instagram.com/himesh.kohad/), [LinkedIn](https://linkedin.com/in/himeshkohad), and [Medium](https://medium.com/@himeshkohad).
+### Hey, I'm Himesh.
 
+I'm a **System Engineer** interested in **backend engineering, Data Structures & Algorithms, and software systems**.
 
-## Languages and Tools
+I enjoy going beyond *"it works"* and understanding **why it works** — how data moves through a system, how algorithms make decisions, how components interact, and what happens underneath the abstractions we normally take for granted.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt "Java" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="Git" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" alt="Yarn" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" alt="Canva" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
-</p>
+My current focus is **Python**, which I'm using to strengthen my fundamentals, build backend-oriented software, and explore concepts across **APIs, databases, concurrency, system design, and developer tooling**.
 
-## 📊 GitHub Stats:
+I'm also working through **DSA consistently**, with an emphasis on understanding the reasoning behind a solution rather than memorizing patterns or code.
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=HimeshKohad&theme=dark&hide_border=false&include_all_commits=false&count_private=false"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimeshKohad&theme=dark&hide_border=false"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimeshKohad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> 
-</p>
+This GitHub is where I document that process through **projects, experiments, algorithms, and things I'm learning along the way.**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HimeshKohad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
+> **Understand the fundamentals. Build with them. Go deeper.**
 
-<hr>
+</td>
 
-## 🔖 Random Dev Quote
+<td width="45%" align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="./assets/about-terminal.svg" width="100%" alt="Animated terminal showing Himesh's current areas of focus" />
 
-<hr>
+</td>
+</tr>
+</table>
 
-:link: **Quick Links:**
-- Contact me: himeshkohad.work@gmail.com
-- Leetcode: [https://leetcode.com/Himesh_Kohad](https://leetcode.com/u/HimeshKohad/)
-- Codeforces: https://codeforces.com/profile/HimeshKohad
-- HackerRank: https://www.hackerrank.com/HimeshKohad
+---
+
+## 🧭 Currently Exploring
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧠
+
+**Algorithms**
+
+DSA · Dynamic Programming
+Problem Solving · Patterns
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Backend Engineering**
+
+Python · APIs
+Databases · System Design
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI Engineering**
+
+LLMs · AI APIs
+RAG · AI-assisted Development
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠️
+
+**Engineering Foundations**
+
+Concurrency · Networking
+Linux · Docker · PostgreSQL
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript&theme=dark" alt="Python, C++, Java, JavaScript" />
+
+<br><br>
+
+### Backend · Data · Systems
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgresql,sqlite,docker,linux&theme=dark" alt="FastAPI, PostgreSQL, SQLite, Docker, Linux" />
+
+<br><br>
+
+### Web · Tools
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,git,github,vscode,npm,arduino&theme=dark" alt="React, HTML, CSS, Tailwind, Git, GitHub, VS Code, npm, Arduino" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=79C0FF&center=true&vCenter=true&width=720&height=35&lines=Python+%E2%80%A2+Backend+%E2%80%A2+Systems;Algorithms+%E2%80%A2+Databases+%E2%80%A2+APIs;Concurrency+%E2%80%A2+Linux+%E2%80%A2+Developer+Tooling" alt="Animated technology focus" />
+
+</div>
+
+---
+
+## 🧩 How I Learn
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 01 · Understand
+
+**Start with the fundamentals.**
+
+Understand the problem,
+the abstraction, and the
+reasoning behind it.
+
+</td>
+
+<td align="center" width="33%">
+
+### 02 · Build
+
+**Turn concepts into code.**
+
+Experiment, implement,
+break things, debug them,
+and see what actually happens.
+
+</td>
+
+<td align="center" width="33%">
+
+### 03 · Go Deeper
+
+**Don't stop at the first answer.**
+
+Explore trade-offs,
+alternatives, complexity,
+and what happens underneath.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### `Curiosity → Fundamentals → Code → Understanding`
+
+</div>
+
+---
+
+## 📚 What I'm Working Toward
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Strong Computer Science Fundamentals**
+
+Data Structures · Algorithms
+Operating Systems · Networking
+Databases · System Design
+
+</td>
+
+<td align="center" width="50%">
+
+**Stronger Software Engineering**
+
+Backend Development · APIs
+Concurrency · Distributed Systems
+Developer Tools · AI Engineering
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌱 A Little More
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   I like knowing what's under the hood.                      │
+│                                                              │
+│   Not just what the code does —                              │
+│   but why it works, how it works,                            │
+│   and what happens when it doesn't.                          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+<a href="mailto:himeshkohad.work@gmail.com">
+  <img src="https://img.shields.io/badge/Email-himeshkohad.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/himeshkohad/">
+  <img src="https://img.shields.io/badge/LinkedIn-Himesh%20Kohad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/HimeshKohad/">
+  <img src="https://img.shields.io/badge/LeetCode-HimeshKohad-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262D,55:161B22,100:0D1117&height=110&section=footer" width="100%" />
+
+</div>
